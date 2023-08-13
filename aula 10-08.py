@@ -5,5 +5,3 @@ nome = input('Escreva seu nome aqui:')
 
 mensagem_nova = mensagem + nome
 print(mensagem_nova)
-
-
